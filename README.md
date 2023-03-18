@@ -1,2 +1,4 @@
-# SVM-Model
- Bicycle Renting Usage Time Prediction
+Bicycle Usage Times Estimation Application
+![bicycle](https://user-images.githubusercontent.com/72737535/226117695-675a70a3-3cbc-4579-bd0c-1f131031e20f.JPG)
+
+You can rent the bike you want from any of the bike rental points located in 70 different locations in San Francisco and deliver the bike to the rental point you want after the end of the usage period. By using the bicycle parking capacity of the bicycle parks at these rental points, the numbers of the bicycles, the weather data of the day the bicycle was rented, as input values, the duration of the bicycles will be estimated. As a result of this study, it will be easier to decide how many bicycles should be kept at which station and under which conditions the demand for bicycle rental will increase. The application will be made by estimation method with Support Vector Machines on Python.
